@@ -55,6 +55,7 @@ public class StateMachine : MonoBehaviour
             case CharacterStates.Attacking:
                 break;
             case CharacterStates.Dead:
+                FindObjectOfType<Character>().gameObject.SetActive(false);
                 break;
         }
     }

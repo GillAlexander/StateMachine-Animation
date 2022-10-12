@@ -1,0 +1,829 @@
+fileFormatVersion: 2
+guid: ff1b4670da9ce06408457bdaa6cf7755
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1293
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db37f29c5ac509b4295088ec014c45ed
+      internalID: 802158742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1293
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b9bc542d85734f8372c99ae2746b6
+      internalID: 726256158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1293
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d101df43eba5459d35edc39dcf6b6
+      internalID: -416304564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1293
+        width: 160
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470506a7391d1104899d1920b75aeb00
+      internalID: -1350797044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1293
+        width: 207
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d6c5453ae8b348aa9bee19085ac53
+      internalID: -1743924645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1037
+        width: 191
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400c6f001ab77f4e9d0c1cfddc5a163
+      internalID: 872957132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1037
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc5ba456b60074ca0358705a82ece8
+      internalID: 1391050165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1037
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fee5a397d1ea54097359282fd84b68
+      internalID: 1422603814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1037
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc72b02cc182ed4fabd15bbe7f87f39
+      internalID: 768267819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1037
+        width: 243
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cde89c54c6b6f0409ddc5d8c97601e1
+      internalID: 874995400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 781
+        width: 226
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd8932ca044d6f4092a0f166d6f559c
+      internalID: -886746472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 781
+        width: 230
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781d01c0cc41408478508edcfc56ca32
+      internalID: 785787507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 781
+        width: 207
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc8835ffec509340bf15283d6d56f82
+      internalID: -644741503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 781
+        width: 238
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000f614de3ec0274caaaaf9bc48dd459
+      internalID: 1565067854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 781
+        width: 207
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da038aad8fccc344b9b976173fdfad3b
+      internalID: -247311267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 750
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b670f4d2ea742734c9ee1994f6fd5d75
+      internalID: 2049050098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 525
+        width: 128
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a13a91cc754644a083e871e73d515
+      internalID: 1921127979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 525
+        width: 128
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad1be6fa9e2d448a5f5827edf22547
+      internalID: 1101961052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 212
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab11b327e9853045bc1e0e1504bceb1
+      internalID: 1568851840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 525
+        width: 207
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183635d73811614f8b70d27668f6316
+      internalID: 727478838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 525
+        width: 212
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723278368550fe047ba827fafda5549e
+      internalID: -938151697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 618
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a86ccc121b5a74fb32a3d5584a0492
+      internalID: 689633951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 604
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f1ca95cd0568544b03360eda5230f4
+      internalID: 1074630538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 564
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4084a9d683808c345b964b5c1d6733ae
+      internalID: 1634787908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 269
+        width: 190
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5721d8523e1714aa5102a976a5c4fb
+      internalID: -208202249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 286
+        width: 128
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2e96f8c80f824e94d06e395cb878e
+      internalID: -537330504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 339
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b9c592bbdab24ab4c274a26dddc9c
+      internalID: 989237360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 269
+        width: 60
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbbe3f37c18b1142b76ed94eed3b9a3
+      internalID: 533841148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 269
+        width: 176
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b81abd99d67604a8ac01417981a0ce
+      internalID: -1833740666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 176
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d77baae522184a989892ecd282dbd
+      internalID: -1265456258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 176
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b5be5807115f447854008239d4504a
+      internalID: 706386551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 07cd8a72e5bf6224cb60b4735763268c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_22: 1074630538
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_21: 689633951
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_24: -208202249
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_11: 785787507
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_27: 533841148
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_6: 1391050165
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_19: 727478838
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_9: 874995400
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_16: 1921127979
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_30: 706386551
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_12: -644741503
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_26: 989237360
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_15: 2049050098
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_4: -1743924645
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_7: 1422603814
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_10: -886746472
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_0: 802158742
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_3: -1350797044
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_5: 872957132
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_8: 768267819
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_1: 726256158
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_13: 1565067854
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_18: 1568851840
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_20: -938151697
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_17: 1101961052
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_28: -1833740666
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_29: -1265456258
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_14: -247311267
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_25: -537330504
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_2: -416304564
+      fan_made_megaman_8_bit_spritesheet__old__by_johncartoonist04_de34zsp-fullview_23: 1634787908
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

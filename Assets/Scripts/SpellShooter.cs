@@ -6,10 +6,10 @@ public class SpellShooter : MonoBehaviour
 {
     public enum SpellType
     {
-        Fire,
-        Ice,
-        Arcane,
-        Elemental
+        Fire = 0,
+        Ice = 1,
+        Arcane = 2,
+        Elemental = 3
     }
 
     private void Update()
@@ -22,6 +22,5 @@ public class SpellShooter : MonoBehaviour
 
     private void CastSpell(SpellType spellType)
     {
-
     }
 }

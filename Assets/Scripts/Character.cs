@@ -43,12 +43,12 @@ public class Character : MonoBehaviour
 
     public void TakeDamage(int damageTaken)
     {
-        healthText.SetText($"Health: {health}");
-        health -= damageTaken;
-        if (health <= 0)
-        {
-            StateMachine.Instance.ChangeCharacterState(StateMachine.CharacterStates.Dead);
-        }
+        //healthText.SetText($"Health: {health}");
+        //health -= damageTaken;
+        //if (health <= 0)
+        //{
+        //    StateMachine.Instance.ChangeCharacterState(StateMachine.CharacterStates.Dead);
+        //}
     }
 
     #endregion
