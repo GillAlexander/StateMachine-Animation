@@ -13,22 +13,14 @@ public class StateMachine : MonoBehaviour
         Attacking = 4,
         Dead = 5
     }
-    public enum EnemyStates
-    {
-        Idle,
-        Patrolling,
-        Alerted,
-        Attacking,
-        Fleeing,
-        Dead
-    }
 
 
     public CharacterStates currentState;
 
     #region Singleton
-    public StateMachine Instance = null;
-    private void Start()
+    public static StateMachine Instance = null;
+
+    private void Awake()
     {
         if (Instance == null)
         {
@@ -41,11 +33,18 @@ public class StateMachine : MonoBehaviour
     }
     #endregion
 
-    public static void ChangeCharacterState(CharacterStates state)
+    private void Start()
     {
-        switch (state)
+        currentState = CharacterStates.Idle;
+    }
+
+    public void ChangeCharacterState(CharacterStates newState)
+    {
+        currentState = newState;
+        switch (currentState)
         {
-            case CharacterStates.Idle:
+            case CharacterStates.Idle: 
+                // Behaviour goes here
                 break;
             case CharacterStates.Walking:
                 break;
@@ -56,7 +55,6 @@ public class StateMachine : MonoBehaviour
             case CharacterStates.Attacking:
                 break;
             case CharacterStates.Dead:
-
                 break;
         }
     }
